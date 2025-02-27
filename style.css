@@ -53,15 +53,15 @@ img {
 }
 
 .msg {
-    margin-top: 5rem;
+    margin-top: 4rem;
 }
 
 #msg {
-    margin-top: 5rem;
+    /* margin-top: 2rem; */
     background-color: black;
     color: white;
     font-size: 2rem;
-    display: inline-block;
+    display: inline;
     padding: 1rem;
     border-radius: 1rem;
 }
